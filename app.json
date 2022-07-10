@@ -1,14 +1,11 @@
 {
-    "name": "Trojan-Go",
-    "description": "Deploy Trojan-Go to Heroku.",
-    "keywords": ["Trojan-Go"],
+    "name": "mister_anton1",
+    "description": "anime_prosto.",
+    "keywords": ["miseto"],
     "env": {
         "PASSWORD": {
-            "description": "Trojan-Go PASSWORD",
+            "description": "miseto-Go2 PASSWORD",
             "value": "password"
         }
     },
-    "website": "https://github.com/laogenihao/Trojan-Heroku",
-    "repository": "https://github.com/laogenihao/Trojan-Heroku",
-    "stack": "container"
 }
